@@ -1,7 +1,8 @@
 packages:
     - name: sample                        
-      actions:
+      functions:
         - name: hello          
           main: ""
           runtime: nodejs:default
+          
 
